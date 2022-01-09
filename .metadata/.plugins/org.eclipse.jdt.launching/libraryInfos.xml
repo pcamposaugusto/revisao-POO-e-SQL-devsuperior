@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/Users/PaulaCampos/Library/Java/JavaVirtualMachines/azul-15.0.4/Contents/Home" version="15.0.4"/>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home" version="11.0.13"/>
+    <libraryInfo home="/Users/PaulaCampos/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home" version="16.0.2"/>
+    <libraryInfo home="/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.1.v20211116-1657" version="17.0.1"/>
+    <libraryInfo home="/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.1.v20211116-1657/jre" version="17.0.1"/>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home" version="17"/>
+</libraryInfos>
