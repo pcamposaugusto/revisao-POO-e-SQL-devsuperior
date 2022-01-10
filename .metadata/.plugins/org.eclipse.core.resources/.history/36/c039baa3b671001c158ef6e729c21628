@@ -54,16 +54,8 @@ public class Program {
 			
 		}
 		
-		// keySet - vai retornar todos os ids de pedidos no Map
-		// Para cada pedido contido no Map, o pedido vai ser impresso no output
-		// Para cada produto p dentro da lista de produtos de cada pedido, imprima p
-		
-		for (Long orderId : map.keySet()) { 
+		for (Long orderId : map.keySet()) {
 			System.out.println(map.get(orderId));
-			for (Product p : map.get(orderId).getProducts()) {
-				System.out.println(p);
-			}
-			System.out.println(); // para saltar uma linha
 		}
 		
 	}
